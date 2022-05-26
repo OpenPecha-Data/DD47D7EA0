@@ -1,0 +1,22 @@
+id: DD47D7EA0
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:32:48+00:00'
+last_modified: '2022-05-26T07:58:47.723196+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    b12f:
+      image_group_id: I1PD95856
+      title: སྤྱོད་པའི་གླུ།
+      total_pages: 2107
+      order: 11
+      base_file: b12f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
